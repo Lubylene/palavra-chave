@@ -2,12 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"); 
 
 :root { 
-  --cor-destaque: #ffd3e2; 
+  --cor-destaque: #d4bcff; 
   --cor-gradiente-preto: linear-gradient( 
     113deg, 
-    #ffdef0cb 0%, 
-    #ffb6d8d7 44.96%, 
-    #f897b7d0 100% 
+    #eadeff 0%, 
+    #dfceff 44.96%, 
+    #d7b5ff 100% 
   ); 
 } 
 
@@ -57,7 +57,7 @@ h1 {
 } 
 
 #entrada-de-texto::placeholder { 
-  color: #ffc5e5; 
+  color: #c18bff; 
   font-size: 2rem; 
   font-weight: 400; 
   line-height: normal; 
