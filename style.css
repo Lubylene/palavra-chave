@@ -7,7 +7,7 @@
     113deg,
     #e7daf0 0%,
     #c5a0e2 44.96%,
-    #9c75c9 100%
+    #c3a2e6 100%
   );
 }
 
@@ -57,7 +57,7 @@ h1 {
 }
 
 #entrada-de-texto::placeholder {
-  color: #828282;
+  color: #c18ad1;
   font-size: 2rem;
   font-weight: 400;
   line-height: normal;
@@ -72,7 +72,7 @@ h1 {
   border-radius: 0.5rem;
   border: none;
   background: var(--cor-destaque);
-  color: #000;
+  color: #f5e6ff;
   font-size: 2.5rem;
   font-weight: 500;
   line-height: normal;
